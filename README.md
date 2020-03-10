@@ -1,5 +1,5 @@
 #eva
-<<<<<<< HEAD
-Se me esta haciendo el dia muuu largo
-=======
->>>>>>> parent of 1e93c0d... commit perdi la cuenta
+PROBANDO CAMBIAR DE RAMAS.
+
+SINO ME EQUIVOCO, EL CAMBIO QUE HAGA EN RAMITA NO DEBERÍA ESTAR EN MASTER HASTA QUE HAGA
+UN MERGE
